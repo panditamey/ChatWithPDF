@@ -28,7 +28,7 @@ The application follows a microservices architecture with:
 ## 🎥 Demo Video
 
 <video width="100%" controls>
-  <source src="assets/ChatWithPDF.mp4" type="video/mp4">
+  <source src="https://github.com/panditamey/ChatWithPDF/raw/refs/heads/main/assets/ChatWithPDF.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
