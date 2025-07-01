@@ -27,7 +27,8 @@ The application follows a microservices architecture with:
 
 ## 🎥 Demo Video
 
-https://github.com/panditamey/ChatWithPDF/blob/main/assets/ChatWithPDF.mp4
+![ChatWithPDF Demo Video](assets/ChatWithPDF.mp4)
+
 *Watch ChatWithPDF in action! 🚀*
 
 ## 🛠️ Technology Stack
